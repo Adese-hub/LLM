@@ -13,10 +13,6 @@ The dataset chosen is from a 'singapore_airlines_reviews sourced from Kaggle. Th
 The project was done using logistic regression model, commonly used for classification tasks. This model was chosen for its efficiency and interpretability in text classification tasks.
 
 
-## Performance Metrics
-To evaluated the effectiveness of this model. 
-
-
 ## Hyperparameters
 Hyperparameter tuning was done to enhance the model's predictive power. I employed GridSearchCV to methodically iterate over a range of hyperparameters and identify the optimal combination. The primary hyperparameters fine-tuned included the regularization strength 'C' and 'max_iter', which influences the convergence of the logistic regression algorithm.
 
